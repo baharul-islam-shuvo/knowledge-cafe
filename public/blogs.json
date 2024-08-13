@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/h8JX7HZ/pexels-thachtran-723991.jpg",
+      "title": "The Echo of Silence",
+      "author_img": "https://i.ibb.co/D4wpzJc/pexels-phong-vo-458121026-18704286.jpg",
+      "posted_date": "2024-08-01",
+      "reading_time": 7,
+      "hashtag": ["#Fiction", "#Mystery", "#Suspense"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/h8JX7HZ/pexels-thachtran-723991.jpg",
+      "title": "Waves of Change",
+      "author_img": "https://i.ibb.co/D4wpzJc/pexels-phong-vo-458121026-18704286.jpg",
+      "posted_date": "2024-08-05",
+      "reading_time": 5,
+      "hashtag": ["#Adventure", "#Travel", "#LifeLessons"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/h8JX7HZ/pexels-thachtran-723991.jpg",
+      "title": "Digital Dreams",
+      "author_img": "https://i.ibb.co/D4wpzJc/pexels-phong-vo-458121026-18704286.jpg",
+      "posted_date": "2024-08-08",
+      "reading_time": 6,
+      "hashtag": ["#Technology", "#Innovation", "#Future"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/h8JX7HZ/pexels-thachtran-723991.jpg",
+      "title": "Whispers of the Past",
+      "author_img": "https://i.ibb.co/D4wpzJc/pexels-phong-vo-458121026-18704286.jpg",
+      "posted_date": "2024-08-10",
+      "reading_time": 8,
+      "hashtag": ["#History", "#Culture", "#Heritage"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/h8JX7HZ/pexels-thachtran-723991.jpg",
+      "title": "The Last Frontier",
+      "author_img": "https://i.ibb.co/D4wpzJc/pexels-phong-vo-458121026-18704286.jpg",
+      "posted_date": "2024-08-12",
+      "reading_time": 9,
+      "hashtag": ["#ScienceFiction", "#Space", "#Exploration"]
+    }
+  ]
+  
